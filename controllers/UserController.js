@@ -97,4 +97,3 @@ export const getMe = async (req, res) => {
         })
     }
 }
-
